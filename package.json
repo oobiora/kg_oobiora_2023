@@ -1,0 +1,23 @@
+{
+  "name": "kg_oobiora_2023",
+  "version": "1.0.0",
+  "description": "Kargo Coding Assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oobiora/kg_oobiora_2023.git"
+  },
+  "keywords": [
+    "Coding",
+    "Assignment"
+  ],
+  "author": "Olisa Alexander Obiora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oobiora/kg_oobiora_2023/issues"
+  },
+  "homepage": "https://github.com/oobiora/kg_oobiora_2023#readme"
+}
